@@ -19,7 +19,7 @@ dependencies = [
     "passlib[bcrypt]==1.7.4",
 
     "requests==2.32.2",
-    "aiohttp==3.9.5",
+    "aiohttp==3.14.1",
     "peewee==3.17.5",
     "peewee-migrate==1.12.2",
     "psycopg2-binary==2.9.9",
